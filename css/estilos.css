@@ -1,0 +1,66 @@
+body{
+	background-color:darkcyan;
+}
+@font-face {
+	font-family:"comic";
+	src:url("../fonts/comic.otf");
+}
+@font-face {
+	font-family:"facil";
+	src:url("../fonts/facil.otf");
+}
+@font-face {
+	font-family:"amadeo";
+	src:url("../fonts/amadeo.ttf");
+}
+@font-face {
+	font-family:"despues";
+	src:url("../fonts/despues.ttf");
+}
+h1{
+	font-family: "despues";
+	font-size: 60px;
+	background-color: #396A99;
+	text-align: center;
+}
+.bike1 {
+	display: block;
+	margin: 0 auto ;
+}
+.bike2{
+	display: block;
+	margin: 0 auto ;
+}
+img {
+	display: block;
+	margin: 0 auto ;
+}
+h2 {
+	font-family: "amadeo";
+	font-size: 55px;
+	text-align: center;
+	background-color: #8C151B;
+}
+.bike3{
+	display: block;
+	margin: 0 auto ;
+}
+.bike4{
+	display: block;
+	margin: 0 auto ;
+}
+.bike5{
+	display: block;
+	margin: 0 auto ;
+}
+h3{
+	font-family: "comic";
+	font-size: 50px;
+	background-color: #51408E;
+	text-align: center;
+}
+p{
+	font-family: "facil";
+	text-align: center;
+	font-size: 40px;
+}
